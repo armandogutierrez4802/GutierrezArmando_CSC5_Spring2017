@@ -1,0 +1,75 @@
+Pseudocode
+
+/* 
+ * File:   main.cpp
+ * Author: Armando Gutierrez
+ * Created on April 12, 2017, 4:05 PM
+ * Purpose: Game of Blackjack
+ */
+//System Libraries
+//Input Output library
+//Random numbers
+//Time to set the Seed
+//File stream library
+//Format Library
+//Namespace std of system libraries
+
+//User Libraries
+//Global Constants
+//Conversion to Percent
+//One Hundred Thousand
+    
+//Function Prototypes
+//Main   
+
+//Set the random number seed
+
+//Declare file and game variables
+//Input File
+//Output File
+//Dealer's/User's card
+//Dealer's/User's sum of cards
+//User's choice
+//Number of wins/losses
+//Number of games/Limit to games
+    
+//Initialize variables
+//Open the Input file
+//Open the Output file
+//Last value in file becomes the number of games
+//Limit games
+  
+//Initialize number of games
+    
+//Start the game    
+//Display number of game
+//User first card
+//Update user's sum
+//User's second card
+//Update and display user's sum
+//Show dealer's card 1
+//Update dealer's sum
+//Dealer's second card. Do not display
+//Update dealer's sum
+
+//Enter user's choice to hit or stay
+	//Update and display user sum
+    
+//Show dealer's card and sum          
+//Dealer must stay at 17      
+//Update dealer's sum
+
+//Output who won and/or lost the game
+//Update wins
+//Update losses
+       
+//Separate the games 
+//Re-initialize/Reset sums for next game
+//End the For loop       
+            
+//End time of Game play
+    
+//Output the game statistics to the screen
+//Output the game statistics to a file
+//Close files
+//Exit main
