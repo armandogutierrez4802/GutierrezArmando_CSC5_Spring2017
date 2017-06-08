@@ -1,0 +1,14 @@
+Total number of Games = 4
+Number of games won   = 2
+Number of games lost  = 2
+Percentage wins for round      = 50%
+Percentage losses     = 50%
+Total time to play these games in integer seconds = 7
+Ratio of Longest to shortest game = 10^0.60206
+
+Statistics Table
+Game   Wins   Time
+1      105      
+4      105      
+2      95      
+3      95      

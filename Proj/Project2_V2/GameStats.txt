@@ -1,0 +1,7 @@
+Total number of Games = 20
+Number of games won   = 8
+Number of games lost  = 12
+Percentage wins       = 40%
+Percentage losses     = 60%
+Total time to play these games in integer seconds = 23
+Ratio of Longest to shortest game = 10^1.30103

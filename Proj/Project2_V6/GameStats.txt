@@ -1,0 +1,20 @@
+Total number of Players = 4
+Number of games won   = 3
+Number of games lost  = 1
+Percentage wins       = 75.00%
+Percentage losses     = 25.00%
+Total time to play this round in integer seconds = 7
+Ratio of Longest to shortest game = 10^0.60
+
+Statistics Table
+Player  Money($)    Win
+1       103         1
+2       104         1
+3       105         1
+4         1         0
+Ranking of players by final amount of money:
+Place  Player  Money($)
+1       3       105       
+2       2       104       
+3       1       103       
+4       4       1       
